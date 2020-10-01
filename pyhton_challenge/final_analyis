@@ -1,0 +1,17 @@
+VERSION 1.0 CLASS
+BEGIN
+  MultiUse = -1  'True
+END
+Attribute VB_Name = "Sheet1"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Financial Analysis
+....................................................................................
+total months: 86
+Total: $38382578
+Average change: $-2315.1176470588234
+Greatest Increase in Profits: Feb-2012 $1926159
+Greatest Decrease in Profits: Sep-2013 $-2196167
+
