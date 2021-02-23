@@ -16,3 +16,6 @@ By using the UFO dataset provided, in the form of an array of JavaScript objects
 The columns for date/time, city, state, country, shape, and comment at the very least have been added.
 
 The date form in the HTML document and the JavaScript code has been wrote that will listen for events and search through the date/time column to find rows that match user input.
+
+## Dataset
+https://uci.bootcampcontent.com/UCI-Coding-Bootcamp/uci-irv-data-pt-08-2020-u-c/blob/master/02-Homework/13-Intro-To-JavaScript/Instructions/StarterCode/static/js/data.js
