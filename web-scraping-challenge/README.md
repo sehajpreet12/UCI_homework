@@ -11,7 +11,7 @@ Script visits the Mars Weather twitter account and scrapes the latest Mars weath
 Script visit the Mars Facts webpage and uses Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
 ## Mars Hemispheres
 Script visits the USGS Astrogeology site and obtains the full resolution images for each of Mar's hemispheres.
-# MongoDB and Flask Application
+## MongoDB and Flask Application
 The MongoDB is currently hosted on the Database-as-a-Service https://mlab.com/. It requires a config.py file (hidden) using a driver via the standard MongoDB URI. The config.py contains a variable "authentication=" set to the MongoDB URI.
-# Flask App
-![flask app]
+## Flask App
+![flask app](https://github.com/sehajpreet12/UCI_homework/blob/master/web-scraping-challenge/images/final_app_part1.png)
