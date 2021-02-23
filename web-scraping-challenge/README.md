@@ -13,5 +13,6 @@ Script visit the Mars Facts webpage and uses Pandas to scrape the table containi
 Script visits the USGS Astrogeology site and obtains the full resolution images for each of Mar's hemispheres.
 ## MongoDB and Flask Application
 The MongoDB is currently hosted on the Database-as-a-Service https://mlab.com/. It requires a config.py file (hidden) using a driver via the standard MongoDB URI. The config.py contains a variable "authentication=" set to the MongoDB URI.
-## Flask App
+# Flask App
 ![flask app](https://github.com/sehajpreet12/UCI_homework/blob/master/web-scraping-challenge/images/final_app_part1.png)
+![flask app2](https://github.com/sehajpreet12/UCI_homework/blob/master/web-scraping-challenge/final_app_part2.png)
