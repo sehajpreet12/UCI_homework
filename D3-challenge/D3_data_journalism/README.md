@@ -9,14 +9,29 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 ## D3 Dabbler
 
-**A scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age. has created.**
+* A scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age. has created.
 
-**A scatter plot that represents each state with circle elements using the D3 techniques has been created. The coded graphic in the app.js file in the js folder is pulled in the data from data.csv by using the d3.csv function. The scatter plot will ultimately appear like the image at the top of this section.**
+* A scatter plot that represents each state with circle elements using the D3 techniques has been created. The coded graphic in the app.js file in the js folder is pulled in the data from data.csv by using the d3.csv function. The scatter plot will ultimately appear like the image at the top of this section.
 
-**State abbreviations in the circles are included.**
+* State abbreviations in the circles are included.
 
-**Theaxes and labels to the left and bottom of the chart are created and situated.**
+* Theaxes and labels to the left and bottom of the chart are created and situated.
 
 **Note: The python -m http.server is used to run the visualization. This will host the page at localhost:8000 in your web browser.**
 
+## Assessment
 
+The final product is based on the following metrics:
+
+- Completion of all steps in the core assignment
+- 
+- Coherency of scatter plot (labels, ticks)
+- 
+- Visual attraction
+- 
+- Professionalism
+
+The repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+
+Copyright
+Trilogy Education Services © 2019. All Rights Reserved.
