@@ -15,7 +15,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 * State abbreviations in the circles are included.
 
-* Theaxes and labels to the left and bottom of the chart are created and situated.
+* The axes and labels to the left and bottom of the chart are created and situated.
 
 **Note: The python -m http.server is used to run the visualization. This will host the page at localhost:8000 in your web browser.**
 
@@ -24,11 +24,11 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 The final product is based on the following metrics:
 
 - Completion of all steps in the core assignment
-- 
+
 - Coherency of scatter plot (labels, ticks)
-- 
+
 - Visual attraction
-- 
+ 
 - Professionalism
 
 The repository has regular commits (i.e. 20+ commits) and a thorough README.md file
