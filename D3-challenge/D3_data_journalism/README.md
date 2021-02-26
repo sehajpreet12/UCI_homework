@@ -34,4 +34,5 @@ The final product is based on the following metrics:
 The repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 Copyright
+
 Trilogy Education Services © 2019. All Rights Reserved.
