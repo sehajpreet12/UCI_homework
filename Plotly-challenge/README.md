@@ -15,7 +15,7 @@ The dataset reveals that a small handful of microbial species (also called opera
  
 ![hw01](https://github.com/sehajpreet12/UCI_homework/blob/master/Plotly-challenge/images/hw01.png)
 
- **Create a bubble chart that displays each sample.
+ **Create a bubble chart that displays each sample.**
 
 - Use **otu_ids** for the x values.
 - Use **sample_values** for the y values.
@@ -32,6 +32,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 - Update all of the plots any time that a new sample is selected.
  
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
+
 ![dashboard_part1](https://github.com/sehajpreet12/UCI_homework/blob/master/Plotly-challenge/images/dashboard_part1.png)
 
 ## Deployment
