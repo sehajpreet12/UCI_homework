@@ -17,5 +17,5 @@ The columns for date/time, city, state, country, shape, and comment at the very 
 
 The date form in the HTML document and the JavaScript code has been wrote that will listen for events and search through the date/time column to find rows that match user input.
 
-## RDataset
+## Dataset
 data.js
